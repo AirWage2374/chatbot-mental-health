@@ -1,6 +1,6 @@
 # AAI Project Macro Kelompok 17
-Muhammad Rizki Alfaina
-Adi Karawinata Satyanegara
-Henry Evandra
-Yerico Marchel Bernadus
-Juwita Margaretta
+1. Muhammad Rizki Alfaina
+2. Adi Karawinata Satyanegara
+3. Henry Evandra
+4. Yerico Marchel Bernadus
+5. Juwita Margaretta
